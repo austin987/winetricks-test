@@ -49,3 +49,4 @@ Makefile supports a few test targets:
 * I try to actively respond to bugs and pull requests on GitHub:
 * Bugs: https://github.com/Winetricks/winetricks/issues/new
 * Pull Requests: https://github.com/Winetricks/winetricks/pulls
+a
